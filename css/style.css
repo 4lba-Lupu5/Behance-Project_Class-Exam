@@ -1,0 +1,256 @@
+/* Debut du code pour la page d'accueil*/
+
+
+header{
+    margin-top: 0%;
+    z-index: 1000;
+    width: 99%;
+    background: white;
+    position: fixed;
+}
+
+
+header nav ul {
+    position: relative;
+    float: left;
+    display: inline-block;
+}
+
+
+.haut-droit{
+    float: right;
+}
+
+#search-input{
+    background: rgb(218, 191, 191);
+    position: relative;
+    width: 59.3%;
+    height: 86.2px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-color: transparent;
+    float: left;
+}
+
+
+div.onglets{
+    position: relative;
+    width: 40%;
+    height: 80px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-color: transparent;
+    float: right;
+}
+
+.adobe-pic{
+    width: 50px;
+    height: 25px;
+    margin-top: 5px;
+}
+
+.LesSelects{
+    position: relative;
+    float: left;
+}
+
+
+.header-order{
+    position: relative;
+    float: right;
+}
+
+/* Fin du code pour la page d'accueil*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Debut du code pour la page jobs*/
+.haut-z0{
+    background: gray;
+    background-size: 100%;
+}
+
+
+.le-blanc{
+    margin-left: 30%;
+    background-color: white;
+    width: 38%;
+    height: 10%;
+    border-radius: 25%, 25%, 25%, 25%;
+}
+
+
+.pp{
+    position: relative;
+    border-radius: 50%;
+    height: 15%;
+    width: 15%;
+    margin-top: 7%;
+    margin-left: 7%;
+    margin-right: 5%;
+    float: left;
+}
+
+
+div.carte-job{
+    position: relative;
+    width: 24%;
+    border-color: rgb(223, 194, 194);
+    border-style: double;
+    float: left;
+    background-color: rgb(223, 194, 194);
+    margin-left: 0.5%;
+    margin-bottom: 1.5%;
+}
+
+.type-job{
+    margin-left: 7%;
+}
+
+
+#j-search{
+    position: relative;
+    width: 40%;
+}
+
+/*Fin du code pour la page jobs*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Debut du code pour la page LiveStreams*/
+
+
+.gliss{
+    position: relative;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    color: white;
+    border-radius: 15%;
+    margin-left: 2.5%;
+    margin-bottom: 1%;
+}
+
+.etc{
+    background-color: rgb(66, 75, 75);
+}
+
+.princi{
+    background-color: blue;
+}
+
+.parent{
+    position: relative;
+    width: 95vw;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    overflow: auto;
+    scrollbar-color: transparent transparent;
+}
+
+
+.carte-live{
+    position: relative;
+    margin-left: 0.5%;
+    right: 0%;
+    background-color: transparent;
+    
+}
+
+
+
+}
+
+
+.Block{
+    position: relative;
+    width: 100%;
+}
+
+
+
+/*Fin du code de la page LiveStreams*/
+
+
+
+
+
+
+
+/*Debut du code de la page Discover*/
+
+h1{
+    vertical-align: middle;
+    text-align: center;
+    font-size: 100px;
+}
+
+h3{
+    vertical-align: middle;
+    text-align: center;
+}
+
+h4{
+    vertical-align: middle;
+    text-align: center;
+    color: lightslategray;
+}
+
+
+.footer{
+    background-color:gray;
+    width: 99%;
+    z-index: 100;
+    
+}
+
+
+/* Fin du code pour Discover*/
+
+
+
+/*FIN du code css du projet*/
